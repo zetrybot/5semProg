@@ -146,6 +146,14 @@ matplitlib - визуализация данных, графики<br>
 OpenCV - работа с изображениями<br>
 C++ - реализация и внедрение на устройства<br>
 
+http://sourceforge.net/projects/opencvlibrary
+
+https://learnopencv.com/getting-started-with-opencv/
+
+https://docs.opencv.org/4.x/index.html
+
+OPENCV - open source computer vision library 
+реализована на  c/c++ и очень эффективна
 
 
 

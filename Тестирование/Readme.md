@@ -112,3 +112,21 @@ TDD (Test Driven Development)
 2 пункт Разработчики могут передать нестабильную и не поддающуюся тестированию систему <br>
 3 пункт Позднее включение тестировщиков в проект 
 
+
+
+
+-----
+Работа Попова <br>
+Количество кнопок: проверить открытие страницы Есть  <br> ![image](https://user-images.githubusercontent.com/97594164/198540806-edd3215e-28ae-4bc5-bff7-c71bb866f877.png)
+
+Визуал: присутствие логотипа, названия компании, плана цеха <br>![image](https://user-images.githubusercontent.com/97594164/198540828-a451021e-0d10-43cd-8208-99231ccdb534.png)
+
+Оформление: читаемость текста (не сливается с фоном, размер) ![image](https://user-images.githubusercontent.com/97594164/198540869-d0629058-4a34-4fe9-b1dc-b2636ca25151.png)
+ <br>
+Расположение элементов любое, но с сохранением размеров ![image](https://user-images.githubusercontent.com/97594164/198540888-40eaa68c-15a5-496f-8326-443a98657c7b.png)
+<br>
+Информация: что производит/ьип продукции, составляющие ![image](https://user-images.githubusercontent.com/97594164/198540904-c2e94d58-73bc-463c-aacb-d9f168ca22d9.png)
+ <br>
+Название проекта WPF = название компании ![image](https://user-images.githubusercontent.com/97594164/198540909-3129c59f-ac54-4c8d-b166-c1836b17b7a6.png)
+ <br>
+

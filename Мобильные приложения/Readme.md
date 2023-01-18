@@ -99,3 +99,5 @@ Android Studio Kotlin </br>
 эт xaml
 <br>макет linearlayout
 <br>
+
+
